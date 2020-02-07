@@ -3,3 +3,7 @@ body{
     font-size: 45em;
 }
 
+header{
+    border-style: solid;
+    border: 2px solid black;
+}
