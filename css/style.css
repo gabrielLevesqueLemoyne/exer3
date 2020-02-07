@@ -6,3 +6,13 @@ body{
 header{
     border: 2px solid black;
 }
+
+main{
+
+    border: 5px solid red;
+}
+
+footer{
+
+    border: 10px solid blue;
+}
